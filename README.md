@@ -1,8 +1,8 @@
 # jpa02-jingpeng7527
 
-Repo: https://ucsb-cs156-m23/jpa02-jingpeng7527
+Repo: https://github.com/ucsb-cs156-m23/jpa02-jingpeng7527
 
-Deployed at: https://jpa02-jingpeng7527.herokuapp.com
+Deployed at: https://jpa02-jingpeng7527.dokku-00.cs.ucsb.edu/
 
 
 # About this repo
